@@ -1,0 +1,15 @@
+.Title {
+    font-size: 22px; 
+ }
+ 
+ body {
+     background-color: rgb(0, 255, 213);
+ }
+ 
+ #camera {
+     border:2px outset black;
+     width: 300px;
+     height: 300px;
+ 
+     
+ }
